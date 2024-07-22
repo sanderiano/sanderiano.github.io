@@ -18,7 +18,7 @@ h1 {
   font-size: 24;
   padding: 5px;
   text-align: center;
-  
+
 }
 
 div {
@@ -58,3 +58,13 @@ a:visited{
 a:link {
   color: rgb(58, 11, 11);
 }
+
+.rounding {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  align:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
